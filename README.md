@@ -6,4 +6,5 @@ I am working as an undergraduate ta for an introductory computer science course 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonvee-99&langs_count=8)](https://github.com/bonvee-99/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bonvee-99)](https://github.com/bonvee-99/github-readme-stats)
 
