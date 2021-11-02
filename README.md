@@ -6,7 +6,7 @@ I am working as an undergraduate ta for an introductory computer science course 
 
 Skills:
 
-Javascript, Node/Express, React/Next, PostgreSQL, python, java
+Javascript, Python, Java, Node/Express, React/Next, PostgreSQL
 
 
 
