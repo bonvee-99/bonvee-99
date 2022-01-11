@@ -9,6 +9,6 @@ Skills:
 
 Javascript, Python, Java, Node/Express, React/Next, PostgreSQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonvee-99)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonvee-99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
