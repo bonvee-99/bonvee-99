@@ -7,8 +7,8 @@ I am working as an undergraduate ta for an introductory computer science course 
 
 Skills:
 
-Javascript, Python, Java, Node/Express, React/Next, PostgreSQL
+Javascript, C/C++, Python, Java, Node/Express, React/Next, PostgreSQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonvee-99)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
