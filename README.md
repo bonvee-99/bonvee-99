@@ -1,5 +1,5 @@
 ### About Me
-Hi I am Ben Vinnick. I am currently studying Cognitive Systems at the University of British Columbia. 
+Hi I am Ben Vinnick. I am currently studying Computer Science at the University of British Columbia. 
 
 I am interested web development and cognitive systems/
 
